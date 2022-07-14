@@ -17,6 +17,5 @@ Finetuning on Classifier_SimCLR
 
       - Disable mounting of google drive account and unzipping of images
       - change working directory, csv paths and image paths accordingly 
-      -> for classifier file do the same, also change the name of the pretrained model
       - rename model to pretraining model
       
